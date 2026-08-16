@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, SQL
+**Languages:** Python, java
 **Backend:** Flask, SQLite
 **Data Science (learning/using):** Pandas, NumPy, Matplotlib, Scikit-learn
 **Tools:** Git, GitHub, VS Code
